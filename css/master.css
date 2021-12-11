@@ -3,19 +3,8 @@ body {
   background-color: #232c3b;
   color: #dce0e6;
   font-size: 100%;
-  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  font-family: 'Nunito', sans-serif;;
 }
-
-.column {
-  display: table;
-  width: 1000px;
-}
-
-.center {
-  font-size: 22px;
-  text-align: center;
-  margin: 0 auto 40px auto;
-  }
 
 a:link {
   display: inline-block;
@@ -85,4 +74,55 @@ a:active {
   top: 230px;
   font-size: 24px;
   margin: 0;
+}
+
+.aboutme {
+  display: table;
+  width: 60%;
+  font-size: 22px;
+  text-align: center;
+  margin: 0 auto 40px auto;
+}
+
+.aboutsite {
+  display: table;
+  width: 60%;
+  font-size: 22px;
+  text-align: center;
+  margin: 0 auto 40px auto;
+}
+
+.skills {
+  display: table;
+  width: 60%;
+  font-size: 22px;
+  text-align: center;
+  margin: 0 auto 40px auto;
+}
+
+.hobbies {
+  display: table;
+  width: 60%;
+  font-size: 22px;
+  text-align: center;
+  margin: 0 auto 40px auto;
+}
+
+.contactme {
+  display: table;
+  width: 60%;
+  font-size: 22px;
+  text-align: center;
+  margin: 0 auto 40px auto;
+}
+
+.trademark {
+  display: table;
+  width: 100%;
+  text-align: center;
+  margin: 0 auto 40px auto;
+}
+
+#getintouch {
+  margin-top: 0;
 }
